@@ -1,0 +1,812 @@
+{
+  "result":[
+  {
+    "tourCategory":"Weekend tour",
+    "region":"Almaty province",
+    "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/02/f3227374e75845be9205c02dd960838c/сompression_(1).jpg",
+    "regionNames":[],
+    "ticketonEntityId":0,
+    "forteEntityId":0,
+    "inomadEntityId":99,
+    "tourDate":"06.02.2022 в 07:00",
+    "duration":1,
+    "adressTour":"Сборы на ул. Абая, д.50, на парковке;",
+    "tourOperatorAdress":"",
+    "tourOperatorMail":"",
+    "tourOperatorPhone":"",
+    "tourOperatorFacebook":"",
+    "tourOperatorTwitter":"",
+    "tourOperatorVk":"",
+    "tourOperatorName":"",
+    "visitTime":7,
+    "visitTimeType":1,
+    "linkTitle":"moon-canyon",
+    "transports":[],
+    "galleries":[],
+    "translations":[
+      {
+        "name":"Moon Canyon",
+        "description":null,
+        "metaTagTitle":"",
+        "metaTagDescription":null,
+        "language":"en",
+        "sideInfo":null,
+        "tourProgram":null,
+        "sight":"",
+        "transfer":"",
+        "tourView":""
+      },
+      {
+        "name":"Ай каньоны",
+        "description":null,
+        "metaTagTitle":null,
+        "metaTagDescription":null,
+        "language":"kk",
+        "sideInfo":null,
+        "tourProgram":null,
+        "sight":null,
+        "transfer":null,
+        "tourView":null
+      },
+      {
+        "name":"Лунный каньон",
+        "description":"Путешествие по Казахстану, которое оставит незабываемые впечатления. Поездка на Чарын, Чёрный и Лунный каньон - это путешествие, которое подарит вам незабываемые впечатления, которые останутся в вашей памяти на всю жизнь.<br>",
+        "metaTagTitle":"Поездка на Чарын, Чёрный и Лунный каньоны",
+        "metaTagDescription":null,
+        "language":"ru",
+        "sideInfo":"<div>Необходимые вещи: Удостоверение личности/паспорт, медицинские маски, личная аптечка, еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), промежуточный перекус (орешки, шоколадка, цукаты), вода, термос чая, кофе, теплую одежду. Форма одежды: Спортивная, удобная обувь и одежда</div><div><br></div><div>В стоимость входит: Транспортное обслуживание, экологические сборы, сопровождение гида по всему маршруту.</div>","tourProgram":"<p>Программа</p><p><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">7:00 - Сборы на ул. Абая, д.50, на парковке;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">7:30 - Выезд;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">11:30 - Прибытие на Чарынский каньон ( экскурсия, пеший поход );</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:00 - Выезд на Лунный каньон;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:00 - Прибытие на Лунный каньон;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:30 - Выезд &nbsp;на Черный каньон;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">16:00 - Прибытие на Черный каньон;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:00 - Выезд в город;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">20:00 - 21:00 - Прибытие в город.</span><br></p>","sight":"Чарынский каньон, Черный каньон, Лунный каньон","transfer":"Автомобиль",
+        "tourView":"однодневный"
+      }
+    ],
+    "id":44
+  },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/1763346a9bc542c5bc8a4f9ae69fa4b9/Алматинский_пик.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":106,
+      "tourDate":"19.02.2022 в 06:45",
+      "duration":1,
+      "adressTour":"  Парковка у парка Первого президента",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 702 108 89 11",
+      "tourOperatorFacebook":"facebook.com/altravel.kaz",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"ALTRAVEL",
+      "visitTime":6,
+      "visitTimeType":1,
+      "linkTitle":"big-almaty-peak",
+      "transports":[],
+      "galleries":[
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/4ba53bb88421439ba8b35b4929f86bd5/БАП_1.jpg","description":"Big Almaty Peak"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/55c8ced5ea0e4a92bbbae2db9288eda4/БАП_2.jpg","description":"Big Almaty Peak"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/e350279f31c147a99456dc7ad1b69d3e/БАП_3.jpg","description":"Big Almaty Peak"
+        }
+      ],
+      "translations":[
+        {
+          "name":"Big Almaty Peak",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        },
+        {
+          "name":"Үлкен Алматы шыңы",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Большой Алматинский пик",
+          "description":"Высота вершины: 3680м (Южная вершина)\nРасстояние похода: в одну сторону 3 км.\nНабор высоты: 400 метров.\nУровень сложности:\nДля новичков выше Среднего;\nДля опытных ниже Среднего.<br>",
+          "metaTagTitle":"СКАЗОЧНЫЙ ПОХОД НА БОЛЬШОЙ АЛМАТИНСКИЙ ПИК (ЮЖНАЯ ВЕРШИНА)",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи:удостоверение личности, трекинговые кроссовки\\ботинки, фонарики(походные гетры), ледоступы(кошки), флисовая кофта / толстовка, теплая куртка (пуховик), шапка и перчатки, запасная футболка, теплые носки, трекинговые палочки, солнцезащитный крем и очки, сидушка-каремат (необязательно), еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), ланч (бутерброды, блинчики, пирожки и т.д),промежуточный перекус (орешки, шоколадка, цукаты), вода, термос чая, кофе.</div><div><br></div><div>В стоимость входит: трансфер, сопровождение гида по всему маршруту, экологические сборы, групповая аптечка.</div>","tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">06:45  - сбор на парковке парка первого президента;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">07:00 -  выезд;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">07:45 - прибытие на Космостанцию;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:00 - старт похода;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">11:30 - прибытие на вершину БАП;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 - начало спуска;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:00 - возвращение на Космостанцию;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:00 - возвращение в город.</span>\n</style=\"color:>",
+          "sight":"Большой Алматинский пик",
+          "transfer":"автомобиль",
+          "tourView":"однодневный"
+        }
+      ],
+      "id":54
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/02/8755bede8a5841e9b53e5bcc0aa29b42/экскурсия_1.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":100,
+      "tourDate":"25.02.2022 в 08:30",
+      "duration":3,
+      "adressTour":"г. Алматы, Ауэзовский район, ул. Саина, 16 Г",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (701) 829 99 30",
+      "tourOperatorFacebook":"facebook.com/almatrails",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"vk.com/alma_trails",
+      "tourOperatorName":"Alma Trails",
+      "visitTime":8,
+      "visitTimeType":1,
+      "linkTitle":"karakol-ski-complex",
+      "transports":[],
+      "galleries":[
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/04/c6fa57d5260249aeb5cd0c05e90c2daa/каракол_1.jpg","description":"Karakol"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/04/241dbfd0c06a4d66bd646628d3d8e51d/каракол2.jpg","description":"Karakol"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/04/8f65aab5e0024322bac10c699abb2c15/каракол3.jpg",
+          "description":"Karakol"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/04/2d94fa9bb041406b9e7dae7a904c152a/каракол4.jpg","description":"Karakol"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/04/65aa6b6bdc924021bfd9277b9ae1f8ec/каракол5.jpg","description":"Karakol"
+        }
+      ],
+      "translations":[
+        {
+          "name":"\"KARAKOL\" Ski Complex",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Горнолыжный комплекс \"КАРАКОЛ\"",
+          "description":"Дорогой друг!\nПриглашаем тебя и твоих друзей покататься на современной горнолыжной базе \"Каракол\" расположенный в Кыргызстане, который считается одним из лучших на постсоветском пространстве.\nТрасса будет интересна всем, как НОВИЧКАМ, которые впервые стали на лыжи или борд, так и для опытных фрирайдеров.\nТебя ждет потрясающий активный отдых в кругу интересных людей!<br>",
+          "metaTagTitle":"Горнолыжный тур в Каракол (Кыргызстан). 3 дня катания.",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: термобелье / водолазка, флисовая кофта / толстовка, куртка / ветровка, утепленные штаны или двое штанов, маска, медицинские маски, шапка и перчатки, сменную одежду и обувь, солнцезащитный крем и очки, горнолыжные очки, горнолыжный костюм, средства гигены, личная аптечка, шлем, сноуборд/лыжи.</div><div><br></div><div>В стоимость входит: трансфер, проживание (номера 2х/3х местные), завтрак, питание во время проживания, сопровождение гида по всему маршруту.</div>",
+          "tourProgram":"<p>Программа</p><p>ПЯТНИЦА 25 ФЕВРАЛЯ</p><p><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:30 – Прибытие в Каракол/ Размещение;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">09:00 – Завтрак - включен в стоимость;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">09:40 – Выезд с отеля;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:30 – Начало катания;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:30 – 16:00 – Катание;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">16:30 – Трансфер в отель;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:30 – Возвращение в отель;&nbsp;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">19:00 – WELCOME ужин - включен в стоимость.</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"></span><br></p>\n<p>СУББОТА 26 ФЕВРАЛЯ - выходной</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">07:00 – Подъем - Завтрак - включен в стоимость;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:15 – Выезд с отеля;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">09:00 – Начало катания;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">09:00 – 16:00 – Катания;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">16:30 – Трансфер в отель;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:30 – Возвращение в отель;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">18:30 – Ужин;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">19:30 – Горячие источники в горах – ПО ЖЕЛАНИЮ.</span>\n<p><br>ВОСКРЕСЕНЬЕ 27 ФЕВРАЛЯ - выходной</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">07:00 – Подъем - Завтрак - включен в стоимость;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:15 – Выезд с отеля;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">09:00 – Начало катания;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:00 – Трансфер в отель;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 – Возвращение в отель;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:00 – Обед;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:00 – Сборы и подготовка и отъезд в город Алматы;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">23:00 - Прибытие в город Алматы.</span></span></span></span></span></span></span></span></style=\"color:></style=\"color:>","sight":"\nГорнолыжный курорт \"Каракол\"",
+          "transfer":"Автомобиль",
+          "tourView":"двухдневный"
+        },
+        {
+          "name":"\"Қаракөл\" тау шаңғысы кешені",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        }
+      ],
+      "id":45
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/02/7b3acb339ed04b39b7a6eaf5907c5d46/кайынды.jpg","regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":85,
+      "tourDate":"10.02.2022 в 05:00",
+      "duration":1,
+      "adressTour":"Автостанция Арман. ​Остановка наземного транспорта.",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (707) 280 16 73",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"K.K. Tour",
+      "visitTime":5,
+      "visitTimeType":1,
+      "linkTitle":"lake-kaindy",
+      "transports":[],
+      "galleries":[
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/3cbe958dc31f483780b36896471aa906/кайынды_1.jpg","description":"Lake Kaindy"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/ab2362ee18ba4568ba27737e03c5fd1e/кайынды_7.jpg","description":"Lake Kaindy"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/038a3474217b4e4d91d33be9bce5df8e/кайынды_6.jpg","description":"Lake Kaindy"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/68ef673d969a4251b27fc3bc6f07f263/кайынды_5.jpg","description":"Lake Kaindy"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/ae0491132a5446e0b1559ae614601995/кайынды_4.jpg","description":"Lake Kaindy"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/a02b90397ca24ab4b742c124dec4623c/кайынды_2.jpg","description":"Lake Kaindy"
+        }
+      ],
+      "translations":[
+        {
+          "name":"Озеро Каинды (Кайынды)",
+          "description":"Экспресс тур на Кольсай, Кайынды и Черный каньон - это все, что нужно для того, чтобы отдохнуть от городской суеты и окунуться в мир нетронутой природы.<br>",
+          "metaTagTitle":"Озеро Каинды (Кайынды)",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: удостоверение личности, еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), вода, медицинские маски, личная аптечка.</div><div><br></div><div>В стоимость входит: трансфер, экологические сборы, сопровождение гида по всему маршруту, такси до озеро Кайынды.</div>","tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">5:00- сборы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">9:00 - прибытие на смотровую площадку Черного каньона;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:00- приезд на озеро Кольсай;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:10 - экскурсия и прогулка;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 - сборы у автобуса;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:00 - выезд на озеро Каинды;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:20 - приезд в Каинды;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:30-17:30 прогулка и экскурсия по местности;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:00 - выезд в город;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">22:00 - приезд в город.</span></style=\"color:>",
+          "sight":"Кольсайские озёра, Озеро Каинды (Кайынды), Черный каньон",
+          "transfer":"автомобиль",
+          "tourView":"однодневный"
+        },
+        {
+          "name":"Lake Kaindy",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Қайыңды көлі",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        }
+      ],
+      "id":47
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/03/d24b19b2bfca46659258d512518c9819/кольсай.jpg","regionNames":[],
+      "ticketonEntityId":3384392,
+      "forteEntityId":0,
+      "inomadEntityId":0,
+      "tourDate":"05.02.2022  в 06:00",
+      "duration":1,
+      "adressTour":"По Байтурсынова, между улицами Абая и Сатпаева, напротив отеля «АСТАНА».",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"",
+      "visitTime":6,
+      "visitTimeType":1,
+      "linkTitle":"kolsay-lakes",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Kolsay Lakes",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        },
+        {
+          "name":"Кольсайские озёра",
+          "description":null,
+          "metaTagTitle":"Кольсайские озёра",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: удостоверение личности, куртки и удобную обувь, маски и антисептик, перекус и воду,Наличные деньги на доп. расходы (магазин, конные прогулки и тд).</div><div><br></div><div>В стоимость входит: транспортное обслуживание, услуги гида-инструктора, экологические сборы национального парка «Кольсай», подъем/спуск на нижний паркинг озера Каинды на УАЗах/ПАЗах.</div>",
+          "tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">06:00 - начало посадки на Байтурсынова 98;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">06:30 - отправление, рассказ путевой информации;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">11:30 - Прибытие на первое Кольсайское озеро, свободное время;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:30 - Выезд на нижний паркинг озера Кайынды на авто УАЗ/ПАЗ (в них кондиционера нет);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:30 - Прибытие, пеший подъем на Кайынды (2 км в одну сторону);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">16:00 - Свободное время;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:50 - Выезд с Каинды;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">18:30 - Выезд в сторону Алматы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">20:00 - Посещение смотровой площадки Черного каньона;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">23:00 - возвращение в город.</span></style=\"color:>\n</span><br><i>Время указано ориентировочно и может изменятся в зависимости от физ. подготовки и пунктуальности группы, а также при непредвиденных обстоятельствах!</span>",
+          "sight":"Кольсай, Каинды, Черный каньон",
+          "transfer":"","tourView":"однодневный"
+        },
+        {
+          "name":"Көлсай көлдері",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        }
+      ],
+      "id":53
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/3ac690742e2a41c1985ebf6a6c1403fa/пик_комсомолец.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":103,
+      "tourDate":"12.02.2022  в  12:00",
+      "duration":2,
+      "adressTour":"Алматы. Пересечение улиц Абая-Жарокова (парковка возле метро)",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (701) 829 99 30",
+      "tourOperatorFacebook":"facebook.com/almatrails",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"vk.com/alma_trails",
+      "tourOperatorName":"ALMA TRAILS",
+      "visitTime":12,
+      "visitTimeType":1,
+      "linkTitle":"ascent-to-komsomolets-peak",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Ascent to Komsomolets Peak.",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        },
+        {
+          "name":"Комсомолец шыңына шығу.",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Восхождение на пик Комсомолец",
+          "description":"Наше путешествие начнется как только мы войдем в национальный парк Ала-Арчи. Природный парк Ала-Арча расположен в 41 км к югу от города Бишкек, на высоте 1600-4800 м и занимает площадь более 2200 га. Начинается с высокого центра Киргизского Ала-Тоо и простирается к северу до Ала-Арчинского ущелья. Название парка в переводе с кыргызского языка означает “пестрый можжевельник”, в честь произрастающего здесь практически на каждом шагу растения. Красивейшее место в окружении высоких елей, прекрасные ландшафты предгорных степей и горных лесов помогут туристу получить незабываемое эстетическое удовольствие. Неспроста рядом с лагерем располагается летняя резиденция президента республики! Здесь также проложены горные тропы для любителей пеших походов и функционирует лагерь для альпинистов.\nЕжегодно в Киргизии в начале мая проводится альпиниада. Открытием является массовое восхождение 1 мая на пик Комсомолец, высотой 4204 м над уровнем моря. С высоты 4-х тысячника открываются невероятные виды, практически на все вершины вокруг, как пик Корона, пик Свободной Кореи, пик Учитель, пик Теке-Тор, пик Семенова Тянь-Шаньского и на другие красивые 4-х тысячники. И каждый раз любители приключений, несмотря ни на что, стремятся покорять горные вершины. И главная причина - манящая красота неприступных гор. Это лучший способ увидеть красоту мира и получить новые впечатления. Альпиниада – это массовое восхождение на какую-либо вершину для масс. Для многих туристов, любителей активного отдыха и просто людей, уставших от мирской суеты, альпиниада – это возможность взойти на гору, окунуться в мир альпинизма и приключений, которых уже не сыскать на равнине. Вас ждет свежий горный воздух и красоты, которые недоступны простым жителям равнин.\n\n \n\nВсех участников, которые взойдут на вершину наградим памятными значками и сертификатами пика Комсомолец.\n\nНитка маршрута: Альплагерь Ала-Арча 2200 (метров на уровнем моря) - Разбитое Сердце - пик Комсомолец 4204 (метров на уровнем моря)\nРасстояние в одну сторону 8 км.\nНабор высоты: 2000 (метров на уровнем моря).\n\nСложность тура - выше среднего (Тяжело) - для подготовленных туристов.\nНОВИЧКИ также могут принять участие не доходя вершины, поход будет по красивому маршруту до Соколиной горы - с вами будут гиды, которые будут также Вас сопровождать.<br>",
+          "metaTagTitle":"Восхождение на пик Комсомолец. Увлекательное путешествие по горам Кыргызстана.","metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: удостоверение личности, рюкзаков объемом 40-50 литров, термобелье / водолазка, флисовая кофта / толстовка, теплая куртка (пуховик), непромокаемые брюки/ горнолыжные брюки, треккинговые зимние ботинки, шапка и перчатки, запасная футболка, теплые носки, солнцезащитный крем и очки, ледоступы(кошки), бахилы от снега, налобный фонарик, трекинговые палочки, средства личной гигиены, личная аптечка, сидушка-каремат (необязательно).</div><div><br></div><div>В стоимость входит: трансфер, проживание, питание во время проживания, экологические сборы,  </div>",
+          "tourProgram":"<p>Программа</p><p>СУББОТА 12 ФЕВРАЛЯ</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">07:00 – Подъем - Завтрак - включен в стоимость;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:00 - Сбор на Абая-Жарокова;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:15 - Отъезд с Алматы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Прибытие в Бишкек;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ужин в заведений всей компашкой;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Выезд в Национальный парк Ала-Арча 2200;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Размещение в горном хостеле;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Свободное время, отдых - отбой;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ночевка в горах.</span></style=\"color:>\n<p><br>ВОСКРЕСЕНЬЕ 13 ФЕВРАЛЯ</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Подъем / Завтрак;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Старт похода;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Подход к \"Разбитому Сердцу\";\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Соколиная гора 3600м;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 - Радуемся на пике Комсомолец 4204;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:30 - Начало спуска;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Финиш похода/ Сбор участников;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Выезд в город Бишкек;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Плотный ужин в заведений всей компашкой;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Награждение участников похода - выдача памятных значков;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Выезд в Алмату;\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Прибытие в Алматы после 22:00.</span></span></span></span></span></span></span></span></span></span></span></span></style=\"color:>","sight":"Альплагерь Ала-Арча 2200 (метров на уровнем моря) - Разбитое Сердце - пик Комсомолец 4204 (метров на уровнем моря)",
+          "transfer":"автомобиль",
+          "tourView":"двухдневный "
+        }
+      ],
+      "id":56
+    },
+    {
+      "tourCategory":"Health-resort tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/03/21ef6130be874940964220ea0bc6d62b/Без_названия_(2).jpg",
+      "regionNames":[],
+      "ticketonEntityId":3396052,
+      "forteEntityId":0,
+      "inomadEntityId":0,
+      "tourDate":"12.02.2022 в 08:30",
+      "duration":2,
+      "adressTour":"ул.Байтурсынова 100, между пр.Абая и ул.Сатпаева (напротив отеля Астана)",
+      "tourOperatorAdress":"Абая 69, офис 17",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (775) 973 51 81",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"Blast tour",
+      "visitTime":8,
+      "visitTimeType":1,
+      "linkTitle":"chundzha-hot-springs",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Chundzha Hot Springs",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        },
+        {
+          "name":"Шонжы ыстық сулары",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Горячие Источники Чунджы",
+          "description":null,
+          "metaTagTitle":"Горячие Источники Чунджы",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: документы, носки.</div><div><br></div><div>В стоимость входит: трансфер, размещение в номерах (2х, 3х местные), завтрак на б/о Мираж.</div>",
+          "tourProgram":"<p>Программа</p><p>1 - день</p><p><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">8-30  \tСбор;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"> 9-00\tВыезд;</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &amp;q12-00\tприбытие в д/о, размещение Б/О «МИРАЖ»/ «Омир Су» , свободное время (купание, отдых);\n<p>2 - день</p>\n<style=\" color:=\"\" rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">8:00-10:00  завтрак (входит в стоимость путевки на б/о «Мираж»);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12-30\tвыезд в город Алматы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:30 – 13:50 \tсанитарная остановка;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17-30\tприбытие в город Алматы.</span>\n</span><br><i>Время указано ориентировочно и может измениться в зависимости от физической подготовки и пунктуальности группы, а также других непредвиденных обстоятельств.</i></p>",
+          "sight":"",
+          "transfer":"",
+          "tourView":"двухдневный"
+        }
+      ],
+      "id":52
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/472e4195e2c5405cbee4209efc499bef/ледяной_вулкан.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":104,
+      "tourDate":"20.02.2022  в 08:00",
+      "duration":1,
+      "adressTour":"Алматы. Пересечение улиц Абая-Жарокова (парковка возле метро)",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 702 108 89 11",
+      "tourOperatorFacebook":"facebook.com/altravel.kaz",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"ALTRAVEL",
+      "visitTime":8,
+      "visitTimeType":1,
+      "linkTitle":"ice-volcano",
+      "transports":[],
+      "galleries":[
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/09771aefada24d19bda0e64f730c81fc/ЛВ1.jpg","description":"Ice Volcano"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/6fe17d506a594bf2b470740955de0b4d/ЛВ2.jpg","description":"Ice Volcano"
+        }
+      ],
+      "translations":[
+        {
+          "name":"Ice Volcano",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        },
+        {
+          "name":"Ледяной вулкан",
+          "description":"Расстояние пути - 270 км. от Алматы (4 часа езды).\nМестоположение - район Кеген.\nПеший маршрут отсутствует.\nПоездка для всех желающих.<br>",
+          "metaTagTitle":"ФАНТАСТИЧЕСКАЯ ПОЕЗДКА НА ЛЕДЯНОЙ ВУЛКАН",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: треккинговые зимние ботинки, теплая куртка (пуховик), шапка и перчатки, солнцезащитный крем и очки, пакет для сбора личного мусора, сидушка-каремат (необязательно), удостоверение личности, еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), промежуточный перекус (орешки, шоколадка, цукаты), термос чая, кофе, ланч (бутерброды, блинчики, пирожки и т.д).</div><div><br></div><div>В стоимость входит: трансфер, фотоотчет, сопровождение гида по всему маршруту.</div>","tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:00 - Сбор на пересечении улиц Абая-Жарокова (парковка возле метро);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">08:30 - Выезд;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 - Прибытие на Ледяной вулкан;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:00 - Прогулка, Пикник;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:30 - Отбытие;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:30 - Остановка у Моста реки Чарына;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">16:00 - Выезд;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">18:30 - Возвращение в город.</span>\n</style=\"color:>","sight":"Ледяной вулкан",
+          "transfer":"автомобиль",
+          "tourView":"однодневный"
+        },
+        {
+          "name":"Мұзды жаңартау",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        }
+      ],
+      "id":55
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Mangystau province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/3d3131a8aea44ba3a8bcc1867795d41d/плато_устюрт.jpg",
+      "regionNames":["Mangystau province"],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":102,
+      "tourDate":"19.03.2022  в 14:00",
+      "duration":5,
+      "adressTour":"Международный аэропорт АКТАУ",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (701) 829 99 30",
+      "tourOperatorFacebook":"facebook.com/almatrails",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"vk.com/alma_trails",
+      "tourOperatorName":"Alma Trails",
+      "visitTime":14,
+      "visitTimeType":1,
+      "linkTitle":"ustyurt-plateau",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Плато Устюрт",
+          "description":"Краткое описание маршрута тура по достопримечательностям полуострова Мангышлак:\n\n• Айракты-Шоманай\n• Гора Шеркала\n• Долина Торыш\n• Урочище Бозжира\n• Панорамы Бозжира\n• ТузБайыр\n• Ыбыкты-сай\n\nОбщая протяженность маршрута - 956 км. Маршрут пройдет 376 км по асфальту, 108км по проселочной дороге и 472 км по грейдеру.\n\nТранспорт:\n\nМаксимально комфортабельный трансфер - полноприводные внедорожники.<br>",
+          "metaTagTitle":"Джип-тур по достопримечательностям Мангыстауской области - плато Устюрт",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":null,
+          "tourProgram":"<p>Программа</p><p>ДЕНЬ 1</p><p>19 МАРТА (СУББОТА)</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">Прибытие участников в город Актау в течении дня.\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">Прогулка по живописной скальной тропе.\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">Морская прогулка на катере - по желанию.\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">Вечером ужинаем в одном из кафе или в ресторане города.\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ночевка в хорошем гостевом доме</span>\n<p><br>ДЕНЬ 2 - НАЧАЛО ЭКСПЕДИЦИЙ:</p><p><br>20 МАРТА (ВОСКРЕСЕНЬЕ)</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Завтрак в гостевом доме\n<br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Утром (05:30 по местному времени) выезд из города Актау\n<br>\n<p><br>Приезд в гору под названием - Шеркала. Некоторые утверждают, что она напоминает пиалу, которую перевернул насытившийся путник. Другие утверждают, что гора похожа на юрту с одной стороны, а с другой стороны – на затаившегося зверя. Далее проезд долину замков Айракты – Шоманай. И по пути заедем в долину Торыш.</p>\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Прогулка и процесс фотосъемок\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Обед в полевых условиях\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Продолжение экскурсии\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Вечером возвращение в город Актау\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ужин в городе Актау\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ночевка в хорошем гостевом доме в городе Актау.\n<p><br>ДЕНЬ 3</p><p>21 МАРТА (ПОНЕДЕЛЬНИК)</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Завтрак в гостевом доме\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Утром (05:30 по местному времени) выезд из города Актау</span>\n</style=\"color:></span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Город Актау – урочище Бозжира – панорамы Бозжира – поселок Шетпе</span>\n<p><br>Бозжира – это живописный обрыв плато Устюрт, оформленный меловыми горами и шпилями останцевого происхождения. Это ослепительно белые скальные останцы, среди которых самый известный это останец, у которого известняковые пики тянутся к небу, напоминая собой форму двух клыков. В окружении ослепительно белых фантастических ландшафтов можно в полной мере ощутить величие природы. Вас ждет пешеходная прогулка (4 км), осмотр местности и время для фотосъемок.</p>\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Прогулка и процесс фотосъемок\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Обед в полевых условиях\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Продолжение экскурсии\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ужин в поселке Шетпе\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ночевка в гостевом доме в поселке Шетпе.\n</span></style=\"color:></style=\"color:>\n<p><br>ДЕНЬ 4</p><p>22 МАРТА (ВТОРНИК)</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Завтрак в гостевом доме\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Поселок Шетпе – ТузБайыр – Ыбыкты-сай – город Актау\n<br>\n<p><br>Прогулка по белоснежному сору Тузбайыр. Это место идеальной красоты, сочетающей в себе три цвета Белый-соль, известняк и жёлто-коричневый цвет почвы подчеркивающей белизну соли. Тут можно увидеть совершенно неожиданную и ошеломляющую природную красоту. Хайкинг с подъемом и спуском на плато. С высоты плато — взору туристов открываются панорама на останцевые горы, гребни и утесы с глубокими обрывистыми лагунами.</p>\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Прогулка и процесс фотосъемок\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Обед в полевых условиях\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Продолжение экскурсии\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Вечером (ориентировочно после 21:00) возвращение в город Актау\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ужин в городе Актау\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Ночевка в гостевом доме в городе Актау.\n</span></style=\"color:>\n<p>ДЕНЬ 5</p><p>23 МАРТА (СРЕДА)</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Завтрак в гостевом доме\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• Проводы участников\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">• День отбытия по домам.</span></style=\"color:>",
+          "sight":"Плато Устюрт",
+          "transfer":"",
+          "tourView":"пятидневный"
+        },
+        {
+          "name":"Үстірт платосы",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Ustyurt Plateau",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        }
+      ],
+      "id":57
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty ",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/164b60a079bd4acaaa6606cf7256622d/ледник_Богдановича.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":79,
+      "tourDate":"09.02.2022  в 09:00",
+      "duration":1,
+      "adressTour":"Медеу (канатная дорога)",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (707) 280 16 73",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"K.K. Tour",
+      "visitTime":9,
+      "visitTimeType":1,
+      "linkTitle":"ascent-to-the-bogdanovich-glacier",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Богданович мұздығына көтерілу",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Подъем на ледник Богдановича",
+          "description":"Однозначно хитом зимнего сезона стал Ледник Богдановича . Необычный, невероятно красивое явление природы. \nМы едем посещать самую знаменитую локацию в Алматы! Ледник который запомниться многим и подарит самые крутые ощущения! Мы предлагаем Вам не только интересный тур, но и возможность ощутить всю атмофсеру пешего тура.<br>",
+          "metaTagTitle":"Подъем на ледник Богдановича",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: трекинговые палочки, ЕДУ (перекус) на дорогу, промежуточный перекус (орешки, шоколадка, цукаты), вода, теплые носки, теплую одежду, ледоступы(кошки), медицинские маски, удостоверение личности.</div><div><br></div><div>В стоимость входит: вода, сопровождение гида по всему маршруту, фотографии на вершине и в течение всего маршрута, канатная дорога в обе стороны.</div>","tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">9:00 - сборы возле канатной дороги Медеу;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:00 - прибытие на Комби 2;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:30 - начало пешей части тура;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:15 - прибытие на ледник Богдановича;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:15-14:00 - свободное время, фотоотчет и прогулка; \n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:00 - сборы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:00 - прибытие на Комби 2; \n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">15:30-16:00 - прибытие на Медео.</span></style=\"color:>",
+          "sight":"Ледник Богдановича",
+          "transfer":"автомобиль",
+          "tourView":"однодневный"
+        },
+        {
+          "name":"Ascent to the Bogdanovich glacier",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        }
+      ],
+      "id":58
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty ",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/08/31679f554bc64e4eb10a930de87dcc3c/шымбулак.jpg","regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":84,
+      "tourDate":"08.02.2022 в 17:00",
+      "duration":1,
+      "adressTour":"Проспект Достык, 104",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (707) 280 16 73",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"K.K. Tour",
+      "visitTime":17,
+      "visitTimeType":1,
+      "linkTitle":"shymbulak-ski-resort",
+      "transports":[],
+      "galleries":[
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/52de8ddddfb44faa82d32209b51e2654/шб_1.jpg","description":"shymbulak"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/c09c72cc4733417f8a991c2936e473d6/шб2.jpg",
+          "description":"shymbulak"
+        },
+        {
+          "imagePath":"https://files.kazakhstan.travel/files/public/202202/08/6a85e93cfc3742649a6466907c0a96b6/шб_3.jpg","description":"shymbulak"
+        }
+      ],
+      "translations":[
+        {
+          "name":"Шымбұлақ тау шаңғысы курорты",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        },
+        {
+          "name":"Горнолыжный курорт Шымбулак",
+          "description":null,
+          "metaTagTitle":"Тур на - Shymbulak 🏂 ALL INCLUSIVE",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: удостоверение личности, медицинские маски, еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), термос чая, кофе.</div><div><br></div><div>В стоимость входит: трансфер, горнолыжный костюм(куртка+штаны) •шлем, лыжи или сноуборд (по вашему желанию), ski-pass карточка (без абонемента), сопровождение гида по всему маршруту.</div>",
+          "tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:00 - сборы в магазине снаряжение (Аль-Фараби Кажымухана);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:00-18:00 сбор полного снаряжение;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">18:30 прибытие на канатную дорогу Шымбулак;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">19:00-21:00 обучение с инструктором (по желание свободное время);\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">21:00-22:30 свободное время, отдых и катание;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">22:30 сборы и выезд в город;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">23:30-00:00 прибытие в магазин, сдача снаряжение.</span></style=\"color:>",
+          "sight":"Горнолыжный курорт Шымбулак",
+          "transfer":"автомобиль ",
+          "tourView":"однодневный "
+        },
+        {
+          "name":"Shymbulak ski resort",
+          "description":null,
+          "metaTagTitle":"",
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":"",
+          "transfer":"",
+          "tourView":""
+        }
+      ],
+      "id":59
+    },
+    {
+      "tourCategory":"Excursion tour",
+      "region":"Almaty province",
+      "baseImagePath":"https://files.kazakhstan.travel/files/public/202202/02/a91f9a276d45473d9090465244197963/черный_каньон.jpg",
+      "regionNames":[],
+      "ticketonEntityId":0,
+      "forteEntityId":0,
+      "inomadEntityId":86,
+      "tourDate":"10.02.2022 в 05:00",
+      "duration":1,
+      "adressTour":"Автостанция Арман. ​Остановка наземного транспорта.",
+      "tourOperatorAdress":"",
+      "tourOperatorMail":"",
+      "tourOperatorPhone":"+7 (707) 280 16 73",
+      "tourOperatorFacebook":"",
+      "tourOperatorTwitter":"",
+      "tourOperatorVk":"",
+      "tourOperatorName":"K.K. Tour",
+      "visitTime":5,
+      "visitTimeType":1,
+      "linkTitle":"black-canyon",
+      "transports":[],
+      "galleries":[],
+      "translations":[
+        {
+          "name":"Черный каньон",
+          "description":"Экспресс тур на Кольсай, Кайынды и Черный каньон - это все, что нужно для того, чтобы отдохнуть от городской суеты и окунуться в мир нетронутой природы.<br>",
+          "metaTagTitle":"Черный каньон",
+          "metaTagDescription":null,
+          "language":"ru",
+          "sideInfo":"<div>Необходимые вещи: удостоверение личности, еда (бутерброды, овощная нарезка, сэндвичи, сосательные конфеты, сухофрукты и др.), вода, медицинские маски, личная аптечка.</div><div><br></div><div>В стоимость входит: трансфер, сопровождение гида по всему маршруту, экологические сборы, , такси до озеро Кайынды.</div>","tourProgram":"<p>Программа</p>\n<style=\"color: rgb(33,=\"\" 37,=\"\" 41);=\"\" font-family:=\"\" -apple-system,=\"\" blinkmacsystemfont,=\"\" &quot;segoe=\"\" ui&quot;,=\"\" roboto,=\"\" &quot;helvetica=\"\" neue&quot;,=\"\" arial,=\"\" &quot;noto=\"\" sans&quot;,=\"\" sans-serif,=\"\" &quot;apple=\"\" color=\"\" emoji&quot;,=\"\" ui=\"\" symbol&quot;,=\"\" emoji&quot;;=\"\" font-size:=\"\" 16px;\"=\"\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">5:00- сборы;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">9:00 - прибытие на смотровую площадку Черного каньона;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:00- приезд на озеро Кольсай;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">10:10 - экскурсия и прогулка;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">12:30 - сборы у автобуса;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">13:00 - выезд на озеро Каинды;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:20 - приезд в Каинды;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">14:30-17:30 прогулка и экскурсия по местности;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">17:00 - выезд в город;\n</span><br style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\"><span style=\"color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px;\">22:00 - приезд в город.</span></style=\"color:>",
+          "sight":"Кольсайские озёра, Озеро Каинды (Кайынды), Черный каньон",
+          "transfer":"автомобиль",
+          "tourView":"однодневный"
+        },
+        {
+          "name":"Black Canyon",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"en",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,"tourView":null
+        },
+        {
+          "name":"Қара каньон",
+          "description":null,
+          "metaTagTitle":null,
+          "metaTagDescription":null,
+          "language":"kk",
+          "sideInfo":null,
+          "tourProgram":null,
+          "sight":null,
+          "transfer":null,
+          "tourView":null
+        }
+      ],
+      "id":46
+    }
+  ],
+  "targetUrl":null,
+  "success":true,
+  "error":null,
+  "unAuthorizedRequest":false,
+  "__abp":true
+}
